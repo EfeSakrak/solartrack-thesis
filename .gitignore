@@ -1,0 +1,10 @@
+# Frontend Cancellations
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+
+# Backend Cancellations
+backend/venv/
+backend/__pycache__/
+backend/*.db
+backend/.env

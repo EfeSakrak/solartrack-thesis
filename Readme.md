@@ -23,7 +23,8 @@ The project follows a decoupled architecture, separating the client-side present
 - **Modern UI/UX:** Built a responsive dashboard using React.js and Vite to present complex data in an understandable format.
 
 > **Note:** Dashboard screenshot will be added here.
-> <!-- ![Dashboard Screenshot](gorselin_github_linki_buraya_gelecek.png) -->
+> <img width="1920" height="1080" alt="thesis" src="https://github.com/user-attachments/assets/50916f92-af12-4458-924d-fdc67733abe9" />
+
 
 ## ⚙️ Local Setup & Installation
 

@@ -22,7 +22,6 @@ The project follows a decoupled architecture, separating the client-side present
 - **RESTful API Design:** Clean, scalable, and well-documented API endpoints for seamless frontend-backend communication.
 - **Modern UI/UX:** Built a responsive dashboard using React.js and Vite to present complex data in an understandable format.
 
-> **Note:** Dashboard screenshot will be added here.
 > <img width="1920" height="1080" alt="thesis" src="https://github.com/user-attachments/assets/50916f92-af12-4458-924d-fdc67733abe9" />
 
 
